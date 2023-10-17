@@ -1,7 +1,12 @@
-function setup() {
-    createCanvas(400, 400);
-  }
+function setup() {function setup() {
+  createCanvas(600, 600);
+  background("white");
+}
+
+function draw() {
+  stroke("blue");
+  fill("red");
   
-  function draw() {
-    background(220);
-  }
+  // console.log(mouseIs)
+}
+    
